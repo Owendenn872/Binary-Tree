@@ -1,4 +1,5 @@
-# 📚 Stack Implementation in Python
+```markdown
+# 🌳 Binary Tree Implementation in Python
 
 ## 👨‍💻 Author
 **Nama:** [Laorentya Eka Putri]  
