@@ -1,4 +1,3 @@
-```markdown
 # 🌳 Binary Tree Implementation in Python
 
 ## 👨‍💻 Author
